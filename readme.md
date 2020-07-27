@@ -12,6 +12,7 @@
         git branch 查看当前分支状态
         git checkout -b dev 在本地创建新分支dev
         git checkout 分支名 切换到指定的分支
+        git push origin dev 将代码提交到dev分支上
 
 Git is free software distributed under the GPL
 
