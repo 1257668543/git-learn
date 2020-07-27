@@ -9,8 +9,9 @@
     git reset --hard 日志号 回退到指定日志号的版本
     git reflog 当找不到所需日志号时，用此命令查看所有历史操作
     新增分支dev
-        git branch
-        git checkout -b dev         
+        git branch 查看当前分支状态
+        git checkout -b dev 在本地创建新分支dev
+        git checkout 分支名 切换到指定的分支
 
 Git is free software distributed under the GPL
 
