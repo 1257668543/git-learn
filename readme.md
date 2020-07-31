@@ -8,6 +8,7 @@
     git reset --hard HEAD^ 回退到指定版本，HEAD后有多少个^就代表回退几个版本
     git reset --hard 日志号 回退到指定日志号的版本
     git reflog 当找不到所需日志号时，用此命令查看所有历史操作
+    git ignore 在github仓库新建仓库时可以选择忽略哪种文件，也可以在项目里 .gitignore 文件中中添加需要忽略的文件
     
     新增分支dev
         git branch 查看当前分支状态
